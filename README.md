@@ -12,7 +12,9 @@ This app search for any valid Zip Code inside Brazil.
 
 # App Overview
  
-This app is composed by: Bloc for state management and GetIt for Service Locator and dependency injection.
+
+This app displays the correct information about the valid Zip Code found. When the Zip Code is invalid, it shows an error message.
+This app is composed by: ViaCep API, Bloc for state management and GetIt as service locator and dependency injection.
 
 # Supported State Management Solutions
   
