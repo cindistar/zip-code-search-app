@@ -1,6 +1,6 @@
 # Zip Code Search App
 
-This app search for any valid Zip Code inside Brazil.
+This app searches for any valid Zip Code inside Brazil.
 
 <p float="left">
   <img src="web/icons/zip_1.jpg" width="250" />
