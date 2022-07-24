@@ -1,4 +1,4 @@
-# Zip Code Finder App
+# Zip Code Search App
 
 This app search for any valid Zip Code inside Brazil.
 
