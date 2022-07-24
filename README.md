@@ -1,16 +1,30 @@
-# viacep_app
+# Zip Code Finder App
 
-A new Flutter project.
+This app search for any valid Zip Code inside Brazil.
 
-## Getting Started
+<p float="left">
+  <img src="web/icons/feed.jpg" width="250" />
+  <img src="web/icons/feed_1.jpg" width="250" />
+  <img src="web/icons/feed_2.jpg" width="250" />
+  <img src="web/icons/feed_3.jpg" width="250" />
+  <img src="web/icons/feed_4.jpg" width="250" />
+  <img src="web/icons/feed_5.jpg" width="250" />
+  <img src="web/icons/feed_6.jpg" width="250" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# App Overview
+ 
+This app is composed by: Bloc for state management and GetIt for Service Locator and dependency injection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Supported State Management Solutions
+  
+- [Bloc](https://pub.dev/packages/flutter_bloc)
+  
+# Packages 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Dio](https://pub.dev/packages/dio)
+- [GetIt](https://pub.dev/packages/get_it)
+
+# Future Roadmap
+
+- N/A
