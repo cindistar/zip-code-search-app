@@ -3,13 +3,11 @@
 This app search for any valid Zip Code inside Brazil.
 
 <p float="left">
-  <img src="web/icons/feed.jpg" width="250" />
-  <img src="web/icons/feed_1.jpg" width="250" />
-  <img src="web/icons/feed_2.jpg" width="250" />
-  <img src="web/icons/feed_3.jpg" width="250" />
-  <img src="web/icons/feed_4.jpg" width="250" />
-  <img src="web/icons/feed_5.jpg" width="250" />
-  <img src="web/icons/feed_6.jpg" width="250" />
+  <img src="web/icons/zip_1.jpg" width="250" />
+  <img src="web/icons/zip_2.jpg" width="250" />
+  <img src="web/icons/zip_3.jpg" width="250" />
+  <img src="web/icons/zip_4.jpg" width="250" />
+
 
 
 # App Overview
